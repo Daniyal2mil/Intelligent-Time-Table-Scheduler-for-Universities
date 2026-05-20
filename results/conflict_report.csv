@@ -1,0 +1,10 @@
+Type,Course,Detail,Severity
+Student Clash,C17,Student S632 has two classes at Tue-10:00,HARD
+Student Clash,C17,Student S211 has two classes at Tue-10:00,HARD
+Student Clash,C17,Student S155 has two classes at Tue-10:00,HARD
+Student Clash,C17,Student S363 has two classes at Tue-10:00,HARD
+Room Overflow,C18,160 students in room R10 (cap 130),HARD
+Room Overflow,C21,100 students in room R1 (cap 60),HARD
+Student Clash,C29,Student S1003 has two classes at Mon-15:00,HARD
+Student Clash,C29,Student S1015 has two classes at Mon-15:00,HARD
+Student Clash,C29,Student S1113 has two classes at Mon-15:00,HARD

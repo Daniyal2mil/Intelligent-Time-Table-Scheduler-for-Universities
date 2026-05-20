@@ -1,0 +1,5 @@
+Method,Penalty,HardViolations
+Manual,3910,85
+Greedy,457,0
+GA-only,855,11
+RL-Hybrid,1066,9
